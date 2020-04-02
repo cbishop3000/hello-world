@@ -1,2 +1,3 @@
 # hello-world
-First Github Proj
+
+It's me, your boy chris b.
